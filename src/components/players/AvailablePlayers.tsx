@@ -1,6 +1,4 @@
-import React from 'react';
 import type { Iplayer } from '../../types/playerType';
-import { FaUser } from 'react-icons/fa6';
 import PlayerCard from './PlayerCard';
 
 const AvailablePlayers = ({ players }: { players: Iplayer[] }) => {
