@@ -1,0 +1,56 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImage": "https://i.ibb.co.com/example/shakib.png",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": 1500000
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerImage": "https://i.ibb.co.com/example/kohli.png",
+    "origin": "India",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 2000000
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImage": "https://i.ibb.co.com/example/rashid.png",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Leg-break googly",
+    "price": 1800000
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImage": "https://i.ibb.co.com/example/babar.png",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1900000
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImage": "https://i.ibb.co.com/example/cummins.png",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1700000
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerImage": "https://i.ibb.co.com/example/stokes.png",
+    "origin": "England",
+    "playerType": "All-Rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1600000
+  }
+]
